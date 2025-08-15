@@ -1,0 +1,15 @@
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\bin\Debug\net9.0\C6-ReadableCode.exe
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\bin\Debug\net9.0\C6-ReadableCode.deps.json
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\bin\Debug\net9.0\C6-ReadableCode.runtimeconfig.json
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\bin\Debug\net9.0\C6-ReadableCode.dll
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\bin\Debug\net9.0\C6-ReadableCode.pdb
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\C6-ReadableCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\C6-ReadableCode.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\C6-ReadableCode.AssemblyInfo.cs
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\C6-ReadableCode.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\C6-ReadableCode.sourcelink.json
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\C6-ReadableCode.dll
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\refint\C6-ReadableCode.dll
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\C6-ReadableCode.pdb
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\C6-ReadableCode.genruntimeconfig.cache
+C:\Users\tomas\Documents\repositorios\C#\C6-ReadableCode\obj\Debug\net9.0\ref\C6-ReadableCode.dll
